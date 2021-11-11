@@ -1,0 +1,33 @@
+*{
+    padding: o;
+    margin: 10px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{
+    margin-top: 20px;
+}
+
+
+.banner{
+background-image: url(../img/lemon-pie.jpg);
+background-size: cover;
+background-attachment: fixed;
+height: 343px;
+color:white;
+padding: 20px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.descripcion {
+    font-size: 35px;
+    color: black;
+}
